@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raymore Real Estate Video Blog with Ryan and Stephanie Finn</title>
-    <description>Our mission at Finn Realty Group is to be your best resource for Raymore real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Finn Realty Group, your professional Raymore Real Estate Agents.</description>
+    <title>Real Estate Video Blog with Ryan and Stephanie Finn</title>
+    <description>Our mission at Finn Realty Group is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Finn Realty Group, your professional  Real Estate Agents.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Apr 2020 14:30:24 -0500</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2020 14:30:24 -0500</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2020 14:57:22 -0500</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2020 14:57:22 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
